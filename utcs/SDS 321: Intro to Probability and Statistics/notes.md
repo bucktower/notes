@@ -42,7 +42,7 @@ Tip: $ {n \choose i} $ is the same as C(n,i)
 ## Conditional and Total Probability
 **Conditional Probability**:
 $$
-P(A|B) = \frac{P(A \cap B)}{P(B)}
+P(A|B) = \frac{P(A \cap B)}{P(B)} = \frac{P(A)P(B|A)}{P(B)}
 $$
 Rearrange the terms to get other equations, such as $P(A \cap B)$.
 
@@ -50,5 +50,56 @@ Rearrange the terms to get other equations, such as $P(A \cap B)$.
 $$
 P(B) = P(A \cap B) + P(A^C \cap B) = P(A)P(B|A) + P(A^C)P(B|A^C)
 $$
+
+## Independence
+**Independent**: A and B are independent if $ P(B|A) = P(B) $; occurence of A provides no information about B's occurence
+
+- $ P(A \cap B) = P(A) * P(B) $
+- Applies even if $ P(A) = 0 $
+
+Conditioning can effect independence:
+
+![Independence Conditioning Example]()
+
+If A and B are independent by themselves, yet we are told that C occurred, then A and B are *no longer independent*.
+
+**Pairwise independence**: a set of random variables from which any two are independent -- *does not imply independence*
+
+**Conditional independence**: $ P(A \cap B|C) = P(A|C) * P(B|C) $
+
+## Permutations and Combinations
+|                | Ordered      | Not Ordered |
+|----------------|--------------|-------------|
+| Replacement    | Product Rule |             |
+| No Replacement | Permutation  | Combination |
+
+### Permutation
+Order matters, no replacement
+
+$$
+P(n,k) = \frac{n!}{(n-k)!}
+$$
+
+"How many ways are there of arranging...?"
+
+### Combination
+Order *doesn't* matter, no replacement
+
+$$
+C(n,k) = \frac{n!}{k!(n-k)!}
+$$
+
+"How many ways are there of selecting at once...?"
+
+#### Stars and Bars/Bagels
+Explains the Combination equation. Say you're buying 6 bagels of 4 types.
+
+Stars = bagels, Bars = separator between types
+
+Example assortment: * * | * | * | * *
+
+6 stars (**n**) + 3 bars (**k**) = 9 symbols
+
+How many possible assortments? C(n,k) = C(6,3) = 20 possible assortments
 
 ## Special Continuous Distributions
