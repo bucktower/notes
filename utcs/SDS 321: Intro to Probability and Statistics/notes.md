@@ -3,7 +3,12 @@ SDS 321: Intro to Probability and Statistics
 
 ## Basics
 **Sample space**: set of all possible outcomes of an experiment
+
 **Event**: subset of sample space
+
+**Discrete**: countable and finite
+
+**Continuous**: uncountable and infinite
 
 ### Sets
 **Union**: $ \{1,2\} \cup \{2,3\} = \{1,2,3\} $
@@ -54,12 +59,14 @@ $$
 ## Independence
 **Independent**: A and B are independent if $ P(B|A) = P(B) $; occurence of A provides no information about B's occurence
 
+**IID**: Independent, indentically distributed (probability of success on many trials always stays the same)
+
 - $ P(A \cap B) = P(A) * P(B) $
 - Applies even if $ P(A) = 0 $
 
 Conditioning can effect independence:
 
-![Independence Conditioning Example]()
+![Independence Conditioning Example](https://github.com/bucktower/notes/raw/master/utcs/SDS%20321:%20Intro%20to%20Probability%20and%20Statistics/IndependenceConditioning.png)
 
 If A and B are independent by themselves, yet we are told that C occurred, then A and B are *no longer independent*.
 
@@ -82,6 +89,8 @@ $$
 
 "How many ways are there of arranging...?"
 
+You can always use the slots as a visual aid (useful for strings)
+
 ### Combination
 Order *doesn't* matter, no replacement
 
@@ -102,4 +111,61 @@ Example assortment: * * | * | * | * *
 
 How many possible assortments? C(n,k) = C(6,3) = 20 possible assortments
 
-## Special Continuous Distributions
+[![Stars and Bars Tutorial](http://img.youtube.com/vi/UTCScjoPymA/0.jpg)](http://www.youtube.com/watch?v= UTCScjoPymA)
+
+## Special Random Variables
+**Probability mass function** (PMF): describes the growth in probability from one to the next (cumulative)
+
+**NOTE**: Put table with equations here
+
+### Discrete Uniform
+Same probability for all cases
+
+| X = x            | 1   | 2   | 3   |
+|------------------|-----|-----|-----|
+| P<sub>x</sub>(x) | 1/3 | 1/3 | 1/3 |
+
+### Bernoulli
+Either a success or a failure
+
+| X = x            | S | F     |
+|------------------|---|-------|
+| P<sub>x</sub>(x) | P | 1 - P |
+
+### Binomial
+Counts successes in **n** IID Bernoulli trials
+
+Distribution usually ends up being normal
+
+### Poisson
+Sample space is infinite (x = 0, 1, 2, ...)
+
+$ \lambda $ = average over time and space
+
+## Expectation
+Expected value of a discrete random variable = sum of probabilities weighted by their probabilities
+
+$$
+E[X] = \sum_{x} xP(X = x)
+$$
+
+### Variance
+If $ E[X] = m $, the **variance** of X is:
+
+$$
+Var(X) = E[(X - m)^2] = E[X^2] - m^2
+$$
+
+### Properties of Expectation and Variance
+If **a** and **b** are constants, then:
+
+$$
+E[aX + b] = aE[X] + b
+$$
+
+$$
+Var[aX + b] = a^2Var[X]
+$$
+
+## Random Vectors
+
