@@ -109,9 +109,9 @@ Example assortment: * * | * | * | * *
 
 6 stars (**n**) + 3 bars (**k**) = 9 symbols
 
-How many possible assortments? C(n,k) = C(6,3) = 20 possible assortments
+How many possible assortments? C(n+k-1,k) = C(8,3) = 20 possible assortments
 
-[![Stars and Bars Tutorial](http://img.youtube.com/vi/UTCScjoPymA/0.jpg)](http://www.youtube.com/watch?v= UTCScjoPymA)
+[![Stars and Bars Tutorial](http://img.youtube.com/vi/UTCScjoPymA/0.jpg)](http://www.youtube.com/watch?v=UTCScjoPymA)
 
 ## Special Random Variables
 **Probability mass function** (PMF): describes the growth in probability from one to the next (cumulative)
@@ -164,8 +164,23 @@ E[aX + b] = aE[X] + b
 $$
 
 $$
+E[X + Y] = E[X] + E[Y]
+$$
+
+$$
 Var[aX + b] = a^2Var[X]
 $$
 
-## Random Vectors
+If X & Y are independent:
+$$
+E[XY] = E[X]E[Y]
+$$
 
+## Random Vectors
+Vectors are just combinations of multiple random variables. Make a chart and find the marginals.
+
+## Maximum Likelihood Estimate (MLE)
+“For which value of p is this data most likely to have happened?”
+
+### Bias
+$ E(\theta^* - \theta) = 0 $
