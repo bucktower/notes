@@ -17,6 +17,25 @@ SDS 321: Intro to Probability and Statistics
 
 $ \{\{1,2\}, \{3\}, \{4,5\}\} $ is a **partition** of $ \{1,2,3,4,5\} $ and is **mutually exclusive**.
 
+#### "Mississippi"-type Problem
+| Letter Totals |
+|---------------|
+|   m - 1       |
+|   i - 4       |
+|   s - 4       |
+|   p - 2       |
+|**Total = 11** |
+
+Then put them into the equation:
+
+$$
+\frac{N_{TOTAL}!}{N_M!N_I!N_S!N_P!}
+$$
+
+$$
+\frac{11!}{1! 4! 4! 2!}
+$$
+
 ### Komolgrov's Axioms
 1. $ 0 \leq P(E) \leq 1 $
 2. $ P(S) = 1 $
@@ -75,6 +94,7 @@ If A and B are independent by themselves, yet we are told that C occurred, then 
 **Conditional independence**: $ P(A \cap B|C) = P(A|C) * P(B|C) $
 
 ## Permutations and Combinations
+
 |                | Ordered      | Not Ordered |
 |----------------|--------------|-------------|
 | Replacement    | Product Rule |             |
@@ -109,7 +129,7 @@ Example assortment: * * | * | * | * *
 
 6 stars (**n**) + 3 bars (**k**) = 9 symbols
 
-How many possible assortments? C(n+k-1,k) = C(8,3) = 20 possible assortments
+How many possible assortments? C(n+k-1,k-1) = C(n+k-1,n) = C(8,3) = 56 possible assortments
 
 [![Stars and Bars Tutorial](http://img.youtube.com/vi/UTCScjoPymA/0.jpg)](http://www.youtube.com/watch?v=UTCScjoPymA)
 
