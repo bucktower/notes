@@ -8,7 +8,7 @@
 
 ## ISP Tree
 
-![isptreediagram](https://raw.githubusercontent.com/bucktower/notes/master/utcs/CS%20356%20Computer%20Networks/images/f.png)
+![isptreediagram](images/f.png)
 
 4 levels:
 

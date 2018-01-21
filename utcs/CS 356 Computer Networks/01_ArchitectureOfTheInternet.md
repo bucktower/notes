@@ -1,5 +1,5 @@
 # Architecture of the Internet
-![hopping](https://raw.githubusercontent.com/bucktower/notes/master/utcs/CS%20356%20Computer%20Networks/images/a.png)
+![hopping](images/a.png)
 
 - Max # of hops: 64
 - **TTL**: Time To Live (until a msg dies)
@@ -9,9 +9,9 @@
 
 | Name | Picture |
 | --- | --- |
-| Router | ![hopping](https://raw.githubusercontent.com/bucktower/notes/master/utcs/CS%20356%20Computer%20Networks/images/b.png) |
-| Client Host | ![hopping](https://raw.githubusercontent.com/bucktower/notes/master/utcs/CS%20356%20Computer%20Networks/images/c.png) |
-| Server Host | ![hopping](https://raw.githubusercontent.com/bucktower/notes/master/utcs/CS%20356%20Computer%20Networks/images/d.png) |
+| Router | ![hopping](images/b.png) |
+| Client Host | ![hopping](images/c.png) |
+| Server Host | ![hopping](images/d.png) |
 
 The lines underneath are subnetworks.
 
