@@ -4,7 +4,7 @@
 - Each ISP is a set of inter-connected routers
 - ISPs are organized in a tree of 3 levels
 
-![firsttolastrouter](https://raw.githubusercontent.com/bucktower/notes/master/utcs/CS%20356%20Computer%20Networks/images/e.png)
+![firsttolastrouter](images/e.png)
 
 ## ISP Tree
 
@@ -20,3 +20,7 @@
 Lower levels (higher #) are **customers** to higher levels (lower #)
 
 Higher levels (lower #) are **providers** to lower levels (higher #)
+
+*Worst part of architecture from tiers: if one stops working, the ones below it go down*
+
+**Solution:** Multiple copies of server boxes
