@@ -40,8 +40,40 @@ If there are equal numbers of men (`m`) and women (`w`), then there are at most 
     - Every man gets the best partner he is able to obtain
     - Every woman gets the worst valid partner (lowest but still stable)
 
+### How to Answer
+*Is `{ ... }` stable matching?*
+
+**No. Because `...` and `...` is a source of instability**
+
+Proof by contradiction is useful
+
 ## 2.1: Computational Tractability
 An algorithm is efficient if it has a polynomial running time
+
+> Definition of $ f(n) \in O(g(n)) $:
+> 
+> $\exists c > 0 \ and \ n_0 > 0 \ \ s.t. \forall n > n_0 $:
+> 
+> We have $P(n) \leq c * g(n) $
+
+Most important is the greatest factor, the rest can be played around with
+
+### Growth Rates
+Grows slowest to fastest
+
+1 >> log(n) >> $ \sqrt n $ >> n >> n log(n) >> n^2 >> n^3 >> ... >> 2^n >> c^n >> n! >> n^n
+
+### Algorithm Analysis
+1. Deterministic
+2. Correctness
+3. Efficiency
+
+Factors that effect efficiency:
+
+1. Size of input (# of objs -- for now)
+2. Primitive operations
+    - Operations whose # dominating total # of operations
+    - *Ex: # of comparison opertaions in sorting*
 
 ## 2.2: Asymptotic Order of Growth
 T(n) = O(f(n)) >> f(n) is *asymptotically upper-bounded* by T(n)
