@@ -2,7 +2,7 @@
 Everything up until Exam 1
 
 ## Table of Contents
-toc
+[TOC]
 
 ## 1.1: Stable Marriages
 ### Pseudocode
