@@ -39,3 +39,5 @@ A network protocol specifies:
 - *formats* of exchanged msgs
 - *order* in which msgs are sent and received
 - *actions* that need to be executed when a msg is sent or received
+
+5 ways to make the tree perfect: #TODO
