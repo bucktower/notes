@@ -41,3 +41,13 @@ A network protocol specifies:
 - *actions* that need to be executed when a msg is sent or received
 
 5 ways to make the tree perfect: #TODO
+
+## 4 Protocol Layers in Internet
+![Protocol layer diagram](images/g.png)
+
+- All layers are horizontal
+- Network layer has 3 hops in diagram
+- "?" represents the router determining where to send the traffic
+- Transport layer ensures integrity of msg -- repairs it if lost/corrupted
+
+**Exercise 1 hint: smallest # of ISPs = 0**
