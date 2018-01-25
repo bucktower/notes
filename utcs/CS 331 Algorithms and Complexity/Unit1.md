@@ -185,3 +185,20 @@ Graphs are often stored as doubly linked list -- question is whether it's a queu
 > 
 > 1. There is no edge of `G` joining two nodes of the same layer. `G` is a bipartite graph in which the nodes in even-numbered layers can be red, and odd-numbered can be blue
 > 2. There IS an edge of `G` joining two nodes of the same layer. `G` contains an odd-length cycle and is therefore not bipartite
+
+n^0.999 * log(n) vs. n
+= n^0.999 * log(n) vs. n^0.999 * n^0.001
+
+### Graphs
+**dense**: # of edges close to max # of edges
+**sparse**: # of edges NOT close to max # of edges
+
+| Dense | *middle ground* | Sparse |
+| --- | --- | --- |
+| $ m = \frac{n(n-1)}{2} $ | | $ m = 0 $ |
+
+Using lists to store graphs:
+
+- `n` = # vertices, `m` = # edges
+- Space: `n` + 2`m` >> O(`n` + `m`)
+- Time-to-read: O(`n` + `m`)
