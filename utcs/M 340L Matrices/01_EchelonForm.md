@@ -67,3 +67,14 @@ To double check: plug back into original, untouched problem
 
 - For free variables in your equation, define the basic variables in relation to free variables and something like "z is free" or "z = s, $s \in \mathbb{R}$"
 - Presence of free variables <<>> infinitely many solutions
+
+## 1.2: Row Reduction and Echelon Forms
+- **Basic variables** correspond to pivots in echelon form
+- **Free variables** don't
+
+### Parametric Descriptions
+Describing basic variables in terms of free variables and declaring the free variables as they are. Ex:
+
+- $a = -b + 2$
+- $b\ is\ free$
+- $c = 7$

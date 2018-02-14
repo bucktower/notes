@@ -1,5 +1,7 @@
 # Vector Operations
 
+$\mathbb{R}^2$ = "r-two" = set of all vectors with 2 entries
+
 ## Vector Addition
 $\overrightarrow{v}, \overrightarrow{w} \in \mathbb{R}^n$
 
