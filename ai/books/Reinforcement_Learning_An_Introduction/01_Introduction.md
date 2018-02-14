@@ -53,3 +53,5 @@ In that case, we might want to leave symmetrical state grouping off the table to
 If learning updates only occurred after non-exploratory moves, then the set that would be converged upon would probably look something like {0, 0.5, 1}. This strategy would be better for learning/long term because its less quick to judge new/exploratory moves for quick wins/losses. This slower propogation back would likely result in more state score-ties happenning in making decisions for the next state to go for (ie "explorations") would allow more trials on each exploration before coming to a conclusion about it.
 
 1.5: For a non-empty ending board (meaning that the algorith won/lost early on), you'd give values < 0 if the algorithm lost quickly, and values > 1 if the algorithm won quickly to incentivize the program to want to win as quick as it can and become even more competitive.
+
+## Summary
