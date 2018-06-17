@@ -159,4 +159,46 @@ Most lawsuits are in the *in personam* variety: plaintiff seeking judgement for 
 If the case is designated as *in rem* (dealing with property within the forum state), then personal jurisdiction is not required (subject matter still is, though)
 
 - Common example: A bank forecloses on a mortgaged house. Subject of the case is the deed, not the defendant, so publishing a notice in a generally-circulated local newspaper is sufficient without obtaining personal jurisdiction
-    - However, if the house's sale wasn't enough to cover the mortgage, then personal jurisdiction would be required for an *in personam* case to obtain money damages against the defendant whose house was taken to make up the difference
+    - However, if the house's sale wasn't enough to cover the mortgage, then personal jurisdiction would be required for an *in personam* "deficiency judgement" to obtain money damages against the defendant whose house was taken to make up the difference
+- Obtain lost or abandoned property, give government title to property that has been forfeited due to crimes (like drug dealing)
+
+## Related Matters
+
+### Venue
+States get to make the rules of which county court within itself has the jurisdiction for a case for which the state has jurisdiction
+
+- Usually within the county in which the accident/property was/is located
+- If there are multiple venues acceptable, plaintiff gets to choose
+
+### Forum Non Conveniens
+A court may choose to transfer or dismiss a suit if another court is more conveniently suited to hear it
+
+Can also be done internationally between countries
+
+### Conflict of Laws
+*Choice of law* designed to prevent plaintiff from shopping for best available court. Every state has their own (can also be applied internationally)
+
+#### Contract Cases
+Contracts typically will spell out something like "Cases arising from this contract will be tried according to California law"
+
+If that clause isn't specified, a combination of factors are weighed, especially the state in which the contract was signed
+
+Courts of Law
+- Money damages
+- Possession of real estate
+- Possession of personal property
+
+Court of Equity
+- Injunction (ex: "stop letting your cattle graze on my land")
+- Decree of specific performance (ex: "Live up to the contract to sell land")
+- Divorce actions, mortgage foreclosure suits, actions for accounting by one member of a partnership against another, etc
+
+Both have been combined to the same for courts of today, mostly decided by what the plaintiff is seeking
+
+- No jury in an equitable action
+- If both, then a jury can come up to give their view, but the judge is the ultimate decider
+- Proceeding in equitable actions are less formal than those at law
+- Equitable remedies are often tried to be avoided or given an alternative or all out dismissed by courts if
+    - Plaintiff doesn't have "clean hands" (guilty of unfair conduct in dealing with the defendant)
+    - An award of money damages would adequately redress the harm done
+    - Granting of equitable remedy might interfere substantially with some third party
