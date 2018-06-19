@@ -114,6 +114,8 @@ How fair and equitable people view the practices and outcomes of their workplace
 
 **Commutative justice**: Exchanges among parties is considered free, fair, and transparent
 
+**Reinforcement theory**: Feedback will affect future performance
+
 ### Expectancy
 **Expectancy theory**: Motivation is the result of a rational calculation
 
