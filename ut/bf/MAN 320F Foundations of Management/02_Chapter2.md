@@ -2,6 +2,7 @@
 MAN 320F
 
 ## Big Five Personality Traits
+
 1. Extraversion—the degree to which someone is outgoing, sociable, and assertive. An extravert is comfortable and confident in interpersonal relationships; an intro- vert is more withdrawn and reserved.
 2. Agreeableness—the degree to which someone is good-natured, cooperative, and trusting. An agreeable person gets along well with others; a disagreeable person is a source of conflict and discomfort for others.
 3. Conscientiousness — the degree to which someone is responsible,dependable,and careful. A conscientious person focuses on what can be accomplished and meets commitments; a person who lacks conscientiousness is careless, often trying to do too much and failing, or doing little.
