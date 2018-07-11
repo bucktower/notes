@@ -38,4 +38,78 @@ Three key roles of government:
 - Business IS the person (dies with that person)
   - Personally liable for company debts
 
+### Partnership
+
+- Partners are collectively the business
+- Can be structured in a way that death or partners leaving doesn't spell the end of a partnership
+- Partners are jointly liable
+
+### Corporation
+
+- A person before the law separate from its owners
+- Separation of ownership and management
+- Limited liability, unlimited life
+
+### Other types
+
+MLPs, REITs, LLCs are all upcoming and popular because they allow a *pass-through provision* for income
+
+### Goals of the Corporation
+
+- Capital budgeting decision: What productive assets should the firm obtain?
+- Capital structure decision: How do we raise capital to afford those productive assets?
+- Net working capital decision: How to manage short-term expenses?
+
+**Fiduciary**: Someone who has a legal obligation to act in the interests of another
+
+**Stakeholder**: Anyone with a stake in the corporation *other than the shareholders* (workers, suppliers, customers, governments, communities, etc)
+
+- Shareholders have a **residual claim** on profits; only paid *after* all stakeholders have been paid
+
 ## Corporate Goals and Governance
+
+**Corporate governance**: Structure and procedures that allow the shareholders to control the managers of the coporation to work in the shareholders' interest
+
+- Creates an **agency relationship**, where managers are **agents** hired to run a coporation on behalf of the shareholders, who are the **principals**
+- Can lead to *agency conflict* when misaligned goals, which lead to *agency costs*
+- Can try to avoid using *agency control devices*
+  - External control devices: Placed on managers by individuals/orgs outside of the corp (ex: govts, takeover, and courts)
+  - Internal control devices: Created and run by the firm's managers and owners (ex: board of directors, by-laws)
+
+*Corporate Social Responsibility (CSR)*
+
+# Unit 4: Accounting Value
+
+## Developing a Company's Balance Sheets
+
+Accounting's purposes: record performance, establish value, report to stockholders, stakeholders, and government
+
+### GAAP
+
+**Accrual Method/Matching Principle**: Match expenses with revenues
+
+**Realization Principle**: Recognize revenue when a contractual obligation occurs (despite future uncertainty)
+
+- Major cause for difference between accounting revnue and cash flow
+
+**Cost Principle**: Record purchase price of an asset with *no adjustments* in price to reflect changes in market value
+
+### The Balance Sheet
+
+`Assets = Liabilities + Shareholder Equity` (*Accounting Identity*)
+
+Assets: *current/short-term* (expected to turn into cash within a year), *long-term* (tangible like factories and vehicles and nontangible like patents and copyrights)
+
+Claims on assets: *current/short-term* (must be paid within a year), *long-term* (often bonds)
+
+Shareholder equity: Residual holders of the company (get what is left over)
+
+`**Net Working Capital (NWC)** = Short-term assets - Short term liabilities`
+
+## Connecting Managerial Decisions with the Income Statement
+
+# Unit 5: Economic Value
+
+# Unit 6: Applying Time Value Techniques
+
+# Unit 7: Ris and the Opportunity Cost
