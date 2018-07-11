@@ -104,11 +104,62 @@ Claims on assets: *current/short-term* (must be paid within a year), *long-term*
 
 Shareholder equity: Residual holders of the company (get what is left over)
 
-`**Net Working Capital (NWC)** = Short-term assets - Short term liabilities`
+- Preferred stock gets claims before common stock
 
-## Connecting Managerial Decisions with the Income Statement
+`Net Working Capital (NWC) = Short-term assets - Short term liabilities`
+
+## The Income Statement
+
+Major decisions a manager must make: product decision (what do we sell?), production decision (which productive assets will we obtain?), financing decision (how will obtain the productive assets?)
+
+**Performance**: How well the managers used assets and claims to produce "income"
+
+Variable costs vs. fixed costs
+
+*Net Profit Before Taxes* (NPBT records profit after all business expenses, both production and financing have been subtracted from revenues)
+
+*Net Income* = `NPBT - Tax`
+
+*Depreciation*: An application of the matching principle where accountant allocates the cost/purchase price of an asset over each year it's used
+
+*Average Tax Rate* (average tax you pay on total income) vs. *Marginal Tax Rate* (how much more tax you would pay on earning another dollar)
+
+**Net income (GAAP) is DIFFERENT from Cash Flow (`Cash received - Cash paid out`)**
 
 # Unit 5: Economic Value
+
+## Calculating Economic Value
+
+**Economic asset**: Entities functioning as a store of value
+
+**Economic value**: Max dollar price someone will pay for an economic asset
+
+- Opportunity cost (best alternative that is not chosen)
+- Cash flow (purchasing power, including borrowing)
+- Time value of money (*present value* vs *future value*)
+- Risk
+
+**Economic decision making**: Calculating economic value and comparing to the cost of obtaining the asset
+
+**Creating wealth**: When price paid for an economic asset is less than its economic value
+
+**First Principle of Finance**: A dollar received today is worht more than a dollar received in the future
+
+## Making Wealth-Increasing Decisions
+
+**Decision rule**: Quantitative rule that evaluates whether a course of action should be undertaken
+
+Internal Rate of Return (IRR)
+
+`IRR = (Ending value - Beginning value) / Beginning value`
+
+**Net Present Value**: Decision-making process using time-value and opportunity cost to compare a decision with its costs
+
+`NPV = PV (inflows) - PV (outflows)`
+
+- If positive, you should accept the project, otherwise reject
+
+## Adjusting Economic Decisions for Risk
 
 # Unit 6: Applying Time Value Techniques
 
