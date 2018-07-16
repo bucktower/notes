@@ -18,6 +18,8 @@ Set of mechanisms to keep action or outputs within predetermined limits
 
 **Process controls**: Specify manner in which tasks are accomplished
 
+- Policy (broad guideline) vs Procedure (best method for performing a task)
+
 **Formalization**: Written documentation of rules, procedures, and policies to help standardize
 
 ## Organizing and Coordinating Work
@@ -43,3 +45,19 @@ Process of choosing and implementing a structural configuration
 **Simple design**: One or two ways of specializing individuals and units
 
 **Operations technology**: Combination of resources, knowledge, and techniques that create a product or service output for an organization
+
+### Thompson's View of Technology
+
+**Intensive technology**: Uncertainty how to produce desired outcome; specialists must be brought together (ex: hospital operating room)
+
+**Mediating technology**: Links parties that want to become interdependent (ex: bank links creditors and depositors)
+
+**Long-linked technology**: Mass production/assembly; steps to produce desired outcome is broken down into steps. Control is critical; coordination focused on making sequential steps work together
+
+### Joan Woodward's View of Technology
+
+- *Small batch production*: Small batches of tailor-made products
+- *Mass production*: Mass production of a few different types of items
+- *Continuous-process technology*: A few products using considerable automation (ex: chemical plants, oil refineries)
+
+
