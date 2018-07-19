@@ -60,4 +60,32 @@ Process of choosing and implementing a structural configuration
 - *Mass production*: Mass production of a few different types of items
 - *Continuous-process technology*: A few products using considerable automation (ex: chemical plants, oil refineries)
 
+### Environment and Organizational Design
+
+**General environment**: Set of cultural, economic, legal-political, and educational conditions found in which an organization operates
+
+**Specific environment**: Set of owners, suppliers, distributors, government agencies, and competitors with which an organization must interact with to survive
+
+**Environmental complexity**: Magnitude of problems and opportunities in an organization's environment (degree of richness, interdependence, uncertainty stemming from general and specific environment)
+
+- Richness: More wealth creation, education, general prosperity (customers willing to spend, investors willing to invest)
+- Interdependence: Involving powerful outsiders, creating a centralized staff dept to handle an important external group (like the govt)
+- Uncertainty and volatility: Need to change organizational design (usually more flexibility needed) to deal with uncertainty and volatility
+
+## Bureaucracy and Beyond
+
+Management of networks and development of alliances are two keys for succeeding in complex global economy
+
+**Interfirm alliance**: Join venture between two independent firms
+
+**Bureaucracies**: Rely on a division of labor, hierarchal control, promotion by merit, career opportunities for employees, administration by rule
+
+**Mechanistic/Machine bureaucracy**: Vertical specialization and control (rules, policies, procedures)
+
+**Organic/Professional bureaucracy**: Horizontal specialization (judgement of experts, personal means of coordination)
+
+Hybrid types:
+
+- Multiple divisions, where each can choose some place between mechanistic vs organic bureaucracy
+- **Conglomerate**: Single corporation contains a number of unrelated businesses; various businesses are unrelated
 
