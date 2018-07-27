@@ -8,7 +8,7 @@ MAN 320F
 
 **Span of control**: Number of individuals reporting to a supervisor
 
-Line units (managament/administration) vs. Staff units (technical)
+Line units (managament/administration) vs. Staff units (technical) <-- switch these
 
 ### Controls
 
