@@ -12,3 +12,4 @@ Most of the time, people assume P \neq NP
   - If any one of the NP Complete problems was to be solved "quickly" (in polynomial time), then all NP problems can be solved "quickly"
 - `NP-Hard`: Set of all problems at least as hard as the hardest problems in NP (in other words, `NP-Complete` or harder)
   - Some of these problems aren't actually in NP
+
