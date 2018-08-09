@@ -15,8 +15,8 @@ I'll probably rename this something other than "data structures" because intervi
 | Trees, Tries, & Graphs | Depth-First Search   | Memory (Stack vs Heap) |
 | Stacks & Queues        | Binary Search        | Recursion              |
 | Heaps                  | Merge Sort           | Dynamic Programming    |
-| Vectors/ArrayLists     | Quick Sort           | [Big O Time & Space](/interviews/time-complexity.mdg)     |
-| Hash Tables            |                      |                        |
+| Vectors/ArrayLists     | Quick Sort           | [Big O Time & Space](/interviews/big-o.md)     |
+| Hash Tables            |                      | [NP-Completeness](/interviews/np-completeness.md) |
 
 ## Powers of 2
 | Power of 2     | Exact Value (X)   | Approx Value | X Bytes into MB, GB, etc |
@@ -31,7 +31,6 @@ I'll probably rename this something other than "data structures" because intervi
 | 2<sup>40</sup> | 1,099,511,627,776 | 1 trillion   | 1 TB                     |
 
 ## How to Answer a Technical Question
-LABTOIW
 
 1. **Listen** to problem, keep in mind *unique info*
 2. **Draw** an example. Make sure it's sufficiently large, uses real mock data, and isn't a special case

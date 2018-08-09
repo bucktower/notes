@@ -1,4 +1,4 @@
-# Time Complexity
+# Big O Time Complexity
 ![Time complexity graph](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/250px-Comparison_computational_complexity.svg.png)
 
 Constants (like O(2N)) and non-dominant terms (like O(N<sup>2</sup> + N)) are irrelevant. Except for exponents (2<sup>n</sup> vs 8<sup>n</sup>)
