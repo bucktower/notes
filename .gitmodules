@@ -1,0 +1,3 @@
+[submodule "ut/cs/CS378ProgrammingForCorrectness/mooc"]
+	path = ut/cs/CS378ProgrammingForCorrectness/mooc
+	url = git@github.com:ULAFF/LAFFPfC.git
