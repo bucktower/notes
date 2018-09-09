@@ -49,8 +49,10 @@
 
 ## Doing
 
-- EE 179K: Bitcoin Whitepaper
+- CH 302: Finish Notes
     @ 2018-09-10
 
 ## Done
 
+- EE 179K: Bitcoin Whitepaper
+    @ 2018-09-10

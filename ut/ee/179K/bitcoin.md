@@ -36,3 +36,10 @@ In the case of a tie (multiple correct hashes broadcast) every node saves the fi
 - Transaction allows multiple in and multiple out rather than keeping track of every "cent"
 
 ## Privacy
+
+- Use different key for each transaction
+- Keep public keys anonymous
+
+## Calculations
+
+- Nodes never accept a block creating money "out of thin air", attacker is only able to "take back" money in his transactions
